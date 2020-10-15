@@ -1,0 +1,3 @@
+git удаленное добавление источника https://github.com/Maksion1/maksion.git
+ git branch -M main 
+git push -u origin main
